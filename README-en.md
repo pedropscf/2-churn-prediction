@@ -1,3 +1,6 @@
+
+### :pushpin: [__Ler em Português__](https://github.com/pedropscf/2-churn-prediction/blob/7a62f7f1bb330e555428179a1338b84751c97ea7/README.md)
+
 # Detecting and avoiding churn of customers at a bank
 
 The TopBank is a fictitious company that offers a variety of banking services, with its main product being a account where they offer a wide variety of products, from investments to insurances.
