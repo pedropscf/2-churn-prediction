@@ -1,4 +1,4 @@
-
+### :pushpin: [__Read in English__](https://github.com/pedropscf/2-churn-prediction/blob/8b5a5a24d3b7499d7686ef3f89b118482c041cc3/README-en.md)
 
 # Detectando e evitando churn de clientes em um banco
 
